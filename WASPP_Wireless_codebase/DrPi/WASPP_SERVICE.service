@@ -1,0 +1,14 @@
+[Unit]
+Description= Automatically begins LoRa communication with base station. WILL RESET VALVE
+After=network.target
+
+[Service]
+Type=simple
+User=ljs
+WorkingDirectory=/home/ljs/NB_2026_UWAS
+ExecStart=/home/ljs/NB_2026_UWAS/.venv/bin/python /home/ljs/NB_2026_UWAS/UWAS_MAIN.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

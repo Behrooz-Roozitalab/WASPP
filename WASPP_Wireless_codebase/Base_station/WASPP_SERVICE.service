@@ -1,0 +1,16 @@
+[Unit]
+Description=LoRa OLED Button UI Demo for sensor receiving from Feather
+After=multi-user.target
+Wants=multi-user.target
+
+[Service]
+Type=simple
+User=ncar
+WorkingDirectory=/home/ncar/demos_n_tests
+ExecStart=/home/ncar/demos_n_tests/venv/bin/python /home/ncar/waspp_com/main.py
+Restart=on-failure
+RestartSec=5
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
