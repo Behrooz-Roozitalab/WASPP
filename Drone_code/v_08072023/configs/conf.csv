@@ -1,0 +1,15 @@
+LOG_FOLDER,/home/pi/logs/,Logging folder
+LOG_TESTING,UWAS_TestingLog.txt,Logging file for testing sensors
+LOG_SAMPLING,UWAS_SamplingLog.txt,Logging file for operation steps
+DATA_FOLDER,/home/pi/data/,Data storage folder
+DATA_SAMPLING,UWAS_Data_sampling.csv,Data file for analysis
+NO_SAT,6,Minimum number of satellite
+TRY_GPS_NUM,15,Number of tries to get the GPS
+BAT_THRES,3.65,Battery Threshold for configuration
+DP_THRES,2,DP Threshold for configuration
+FLOW_THRES,0.3,Flow Threshold for configuration
+SEARCH_NO,1200,Number of searching for each waypoint
+LAT_DIFF,0.5,Tolerance range for latitude during searching
+LON_DIFF,0.5,Tolerance range for longitude during searching
+ALT_DIFF,50,Tolerance range for altitude during searching
+FLUSHING_NO,5,Flushing time for each sampling

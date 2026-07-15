@@ -1,0 +1,256 @@
+------------------START OPERATION------------------
+
+>>>>>> Getting initial GPS:
+Lat(init): 0.0, Lon(init): 0.0, Alt(init): 0.0
+
+
+>>>>>> Searching for target way points
+-------- WP_1 --------
+TARGET WP: (0, 0, 100)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 1 ........
+........ Sampling at (0, 0, 100)
+GPS_Start (Date, lat, lon, alt): 000655.800, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.110875453962828, 0.9622537797173987, 3.336101809747612
+TRH_Start (RH, T, Psys, Pamb): 36.111102023377185, 24.651973021637616, 5.0238042847987305, 11.90055391094699
+---->>>> Start filling Canister Pos 01 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 02
+GPS_End (Date, lat, lon, alt): 000721.800, , , 
+BT_End (BattVoltage, Flow, 10V): 4.112000488296151, 0.9702040223395489, 3.336101809747612
+TRH_End (RH, T, Psys, Pamb): 36.206104922635575, 24.63397247230445, 5.046304971465194, 11.898991363261818
+........ Pump Off ........
+-------- WP_2 --------
+TARGET WP: (0, 0, 100)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 2 ........
+........ Sampling at (0, 0, 100)
+GPS_Start (Date, lat, lon, alt): 000813.800, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.110125431073946, 0.9639038300729393, 3.3362893154698323
+TRH_Start (RH, T, Psys, Pamb): 36.21610522782067, 24.585971007416006, 5.033648335215307, 11.898991363261818
+---->>>> Start filling Canister Pos 03 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 04
+GPS_End (Date, lat, lon, alt): 000839.799, , , 
+BT_End (BattVoltage, Flow, 10V): 4.112000488296151, 0.9711040498062072, 3.3362893154698323
+TRH_End (RH, T, Psys, Pamb): 36.256106448561056, 24.567970458082826, 5.045367442854092, 11.90055391094699
+........ Pump Off ........
+-------- WP_3 --------
+TARGET WP: (0, 0, 85)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 3 ........
+........ Sampling at (0, 0, 85)
+GPS_Start (Date, lat, lon, alt): 000934.799, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.109937925351725, 0.9660038941618091, 3.3362893154698323
+TRH_Start (RH, T, Psys, Pamb): 36.271106906338694, 24.53796954252755, 5.033179570909757, 11.90055391094699
+---->>>> Start filling Canister Pos 05 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 06
+GPS_End (Date, lat, lon, alt): 001000.799, , , 
+BT_End (BattVoltage, Flow, 10V): 4.110500442518387, 0.9820543839838862, 3.3362893154698323
+TRH_End (RH, T, Psys, Pamb): 36.27610705893124, 24.53196935941648, 5.052398907437361, 11.90055391094699
+........ Pump Off ........
+-------- WP_4 --------
+TARGET WP: (0, 0, 70)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 4 ........
+........ Sampling at (0, 0, 70)
+GPS_Start (Date, lat, lon, alt): 001058.799, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.109750419629505, 0.9676539445173497, 3.3362893154698323
+TRH_Start (RH, T, Psys, Pamb): 36.26610675374614, 24.5019684438612, 5.034585863826411, 11.898991363261818
+---->>>> Start filling Canister Pos 07 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 08
+GPS_End (Date, lat, lon, alt): 001124.799, , , 
+BT_End (BattVoltage, Flow, 10V): 4.111812982573931, 0.9747041596728416, 3.3362893154698323
+TRH_End (RH, T, Psys, Pamb): 36.24610614337596, 24.48996807763909, 5.046773735770745, 11.90055391094699
+........ Pump Off ........
+-------- WP_5 --------
+TARGET WP: (0, 0, 55)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 5 ........
+........ Sampling at (0, 0, 55)
+GPS_Start (Date, lat, lon, alt): 001225.799, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.1095629139072845, 0.9706540360728781, 3.3364768211920532
+TRH_Start (RH, T, Psys, Pamb): 36.191104464857936, 24.447966795861703, 5.010678884243294, 11.90055391094699
+---->>>> Start filling Canister Pos 09 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 10
+GPS_End (Date, lat, lon, alt): 001251.799, , , 
+BT_End (BattVoltage, Flow, 10V): 4.112187994018372, 0.973054109317301, 3.3364768211920532
+TRH_End (RH, T, Psys, Pamb): 36.28610736411634, 24.441966612750633, 5.0481800286873995, 11.898991363261818
+........ Pump Off ........
+-------- WP_6 --------
+TARGET WP: (0, 0, 40)
+>>>>>>>> Searching successful at attempt 1 >>>>>>>>
+........ Pump On: Sampling at WP 6 ........
+........ Sampling at (0, 0, 40)
+GPS_Start (Date, lat, lon, alt): 001303.799, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.1095629139072845, 0.9727541001617482, 3.3364768211920532
+TRH_Start (RH, T, Psys, Pamb): 36.36110965300455, 24.423966063417467, 5.008803827021088, 11.90055391094699
+---->>>> Start filling Canister Pos 11 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 12
+GPS_End (Date, lat, lon, alt): 001329.799, , , 
+BT_End (BattVoltage, Flow, 10V): 4.112000488296151, 0.9735041230506305, 3.3362893154698323
+TRH_End (RH, T, Psys, Pamb): 36.33610889004181, 24.4059655140843, 5.04864879299295, 11.90055391094699
+........ Pump Off ........
+-------- WP_7 --------
+TARGET WP: (0, 0, 25)
+>>>>>>>> Searching successful at attempt 1 >>>>>>>>
+........ Pump On: Sampling at WP 7 ........
+........ Sampling at (0, 0, 25)
+GPS_Start (Date, lat, lon, alt): 001342.799, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.109375408185064, 0.9720040772728663, 3.3362893154698323
+TRH_Start (RH, T, Psys, Pamb): 36.296107669301435, 24.399965330973245, 5.017241584521012, 11.90055391094699
+---->>>> Start filling Canister Pos 13 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 14
+GPS_End (Date, lat, lon, alt): 001408.799, , , 
+BT_End (BattVoltage, Flow, 10V): 4.110875453962828, 0.9822043885616627, 3.3364768211920532
+TRH_End (RH, T, Psys, Pamb): 36.72612079226051, 24.381964781640065, 5.013491470076603, 11.90055391094699
+........ Pump Off ........
+-------- WP_8 --------
+TARGET WP: (0, 0, 10)
+>>>>>>>> Searching successful at attempt 1 >>>>>>>>
+........ Pump On: Sampling at WP 8 ........
+........ Sampling at (0, 0, 10)
+GPS_Start (Date, lat, lon, alt): 001422.799, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.11162547685171, 0.9624037842951751, 3.3362893154698323
+TRH_Start (RH, T, Psys, Pamb): 36.60611713003937, 24.37596459852901, 5.051461378826258, 11.90055391094699
+---->>>> Start filling Canister Pos 15 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 16
+GPS_End (Date, lat, lon, alt): 001448.799, , , 
+BT_End (BattVoltage, Flow, 10V): 4.110875453962828, 0.9828044068727686, 3.3364768211920532
+TRH_End (RH, T, Psys, Pamb): 36.5461152989288, 24.3639642323069, 5.0092725913266385, 11.90055391094699
+........ Pump Off ........
+------------------END OPERATION------------------
+------------------START OPERATION------------------
+
+>>>>>> Getting initial GPS:
+Lat(init): 0.0, Lon(init): 0.0, Alt(init): 0.0
+
+
+>>>>>> Searching for target way points
+-------- WP_1 --------
+TARGET WP: (0, 0, 100)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 1 ........
+........ Sampling at (0, 0, 100)
+GPS_Start (Date, lat, lon, alt): 000451.800, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.110875453962828, 0.9600037110507522, 3.3364768211920532
+TRH_Start (RH, T, Psys, Pamb): 36.441112094485305, 24.261961119418928, 25.949680007019257, 11.898991363261818
+---->>>> Start filling Canister Pos 01 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 02
+GPS_End (Date, lat, lon, alt): 203950.098, , , 
+BT_End (BattVoltage, Flow, 10V): 4.110125431073946, 0.9493533860286263, 3.3366643269142737
+TRH_End (RH, T, Psys, Pamb): 36.43111178930021, 24.255960936307858, 26.336242366466262, 11.898991363261818
+........ Pump Off ........
+-------- WP_2 --------
+TARGET WP: (0, 0, 100)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 2 ........
+........ Sampling at (0, 0, 100)
+GPS_Start (Date, lat, lon, alt): 204042.089, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.11162547685171, 0.9570036194952238, 3.3364768211920532
+TRH_Start (RH, T, Psys, Pamb): 36.51111423078097, 24.255960936307858, 26.03928055391095, 11.898991363261818
+---->>>> Start filling Canister Pos 03 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 04
+GPS_End (Date, lat, lon, alt): 204108.089, , , 
+BT_End (BattVoltage, Flow, 10V): 4.1095629139072845, 0.9855044892727438, 3.3366643269142737
+TRH_End (RH, T, Psys, Pamb): 36.53611499374371, 24.261961119418928, 25.91639980388806, 11.897428815576646
+........ Pump Off ........
+-------- WP_3 --------
+TARGET WP: (0, 0, 85)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 3 ........
+........ Sampling at (0, 0, 85)
+GPS_Start (Date, lat, lon, alt): 204203.089, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.110687948240608, 0.9624037842951751, 3.3366643269142737
+TRH_Start (RH, T, Psys, Pamb): 36.521114535966056, 24.261961119418928, 25.95480003827021, 11.898991363261818
+---->>>> Start filling Canister Pos 05 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 06
+GPS_End (Date, lat, lon, alt): 204229.086, , , 
+BT_End (BattVoltage, Flow, 10V): 4.11162547685171, 0.974854164250618, 3.3364768211920532
+TRH_End (RH, T, Psys, Pamb): 36.48111331522569, 24.261961119418928, 26.0444005851619, 11.897428815576646
+........ Pump Off ........
+-------- WP_4 --------
+TARGET WP: (0, 0, 70)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 4 ........
+........ Sampling at (0, 0, 70)
+GPS_Start (Date, lat, lon, alt): 204327.086, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.109375408185064, 0.9706540360728781, 3.3364768211920532
+TRH_Start (RH, T, Psys, Pamb): 36.37611011078219, 24.255960936307858, 25.86007946012757, 11.898991363261818
+---->>>> Start filling Canister Pos 07 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 08
+GPS_End (Date, lat, lon, alt): 204353.086, , , 
+BT_End (BattVoltage, Flow, 10V): 4.11143797112949, 0.9750041688283944, 3.3366643269142737
+TRH_End (RH, T, Psys, Pamb): 36.231105685598315, 24.249960753196802, 25.931759897640923, 11.898991363261818
+........ Pump Off ........
+-------- WP_5 --------
+TARGET WP: (0, 0, 55)
+>>>>>>>> Searching successful at attempt 21 >>>>>>>>
+........ Pump On: Sampling at WP 5 ........
+........ Sampling at (0, 0, 55)
+GPS_Start (Date, lat, lon, alt): 204454.086, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.109375408185064, 0.9669039216284677, 3.3366643269142737
+TRH_Start (RH, T, Psys, Pamb): 36.41111117893002, 24.249960753196802, 26.036720538285476, 11.898991363261818
+---->>>> Start filling Canister Pos 09 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 10
+GPS_End (Date, lat, lon, alt): 204520.086, , , 
+BT_End (BattVoltage, Flow, 10V): 4.111250465407269, 0.975904196295053, 3.3366643269142737
+TRH_End (RH, T, Psys, Pamb): 36.256106448561056, 24.261961119418928, 25.918959819513535, 11.898991363261818
+........ Pump Off ........
+-------- WP_6 --------
+TARGET WP: (0, 0, 40)
+>>>>>>>> Searching successful at attempt 1 >>>>>>>>
+........ Pump On: Sampling at WP 6 ........
+........ Sampling at (0, 0, 40)
+GPS_Start (Date, lat, lon, alt): 204532.086, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.1095629139072845, 0.9760542008728295, 3.3366643269142737
+TRH_Start (RH, T, Psys, Pamb): 36.271106906338694, 24.249960753196802, 25.837039319498277, 11.898991363261818
+---->>>> Start filling Canister Pos 11 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 12
+GPS_End (Date, lat, lon, alt): 204558.086, , , 
+BT_End (BattVoltage, Flow, 10V): 4.1091879024628435, 0.9897046174504838, 3.3366643269142737
+TRH_End (RH, T, Psys, Pamb): 36.36110965300455, 24.243960570085747, 25.765358881984927, 11.898991363261818
+........ Pump Off ........
+-------- WP_7 --------
+TARGET WP: (0, 0, 25)
+>>>>>>>> Searching successful at attempt 1 >>>>>>>>
+........ Pump On: Sampling at WP 7 ........
+........ Sampling at (0, 0, 25)
+GPS_Start (Date, lat, lon, alt): 204611.086, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.1091879024628435, 0.9763542100283822, 3.3366643269142737
+TRH_Start (RH, T, Psys, Pamb): 36.30110782189398, 24.243960570085747, 25.898479694509717, 11.897428815576646
+---->>>> Start filling Canister Pos 13 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 14
+GPS_End (Date, lat, lon, alt): 204637.086, , , 
+BT_End (BattVoltage, Flow, 10V): 4.110875453962828, 0.9826544022949921, 3.3366643269142737
+TRH_End (RH, T, Psys, Pamb): 36.22610553300577, 24.22596002075258, 25.81655919449446, 11.898991363261818
+........ Pump Off ........
+-------- WP_8 --------
+TARGET WP: (0, 0, 10)
+>>>>>>>> Searching successful at attempt 1 >>>>>>>>
+........ Pump On: Sampling at WP 8 ........
+........ Sampling at (0, 0, 10)
+GPS_Start (Date, lat, lon, alt): 204651.086, , , 
+BT_Start (BattVoltage, Flow, 10V): 4.110875453962828, 0.9706540360728781, 3.3366643269142737
+TRH_Start (RH, T, Psys, Pamb): 36.206104922635575, 24.21395965453047, 25.877999569505906, 11.898991363261818
+---->>>> Start filling Canister Pos 15 >>>>----
+---->>>> End filling Canister >>>>----
+End Pos: 16
+GPS_End (Date, lat, lon, alt): 204717.086, , , 
+BT_End (BattVoltage, Flow, 10V): 4.109750419629505, 0.9862545121616262, 3.3366643269142737
+TRH_End (RH, T, Psys, Pamb): 36.256106448561056, 24.20195928830836, 25.74487875698111, 11.898991363261818
+........ Pump Off ........
+------------------END OPERATION------------------

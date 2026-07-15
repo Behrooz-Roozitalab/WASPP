@@ -1,0 +1,12 @@
+Initial Valco Position is: 02
+Initial GPS data: 000302.800,,,,00
+Pump starting now...
+x of 16: 
+Current Valco Position is: 03
+WP (&Sat #) start GPS data: 000302.800,,,,00
+Sample start Batt,Flow,10V:4.11762565996,0.00462455519272,3.33610180975
+Sample start RH,T,Psys,Pamb:14.2504348888,20.4278441115,11.8693029572,2.20231192969
+WP (&Sat #) end GPS data: 000302.800,,,,00
+Sample end Batt,Flow,10V:4.11143797113,1.42321784722,3.33610180975
+Sample end RH,T,Psys,Pamb:14.2504348888,20.4518448439,11.8677404096,4.16924695578
+Canister Sampling Ended...

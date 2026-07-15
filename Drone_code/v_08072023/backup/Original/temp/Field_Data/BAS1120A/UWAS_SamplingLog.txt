@@ -1,0 +1,6 @@
+Starting Valco Position is: 08
+Pump off now
+Num of GPS satellites: 9.0
+Pump Test Sucessful!
+Initial Lat, Lon, Altitude (m), Sat : 4005.1592,10513.9681,1581.6
+Way Point (WP) :1

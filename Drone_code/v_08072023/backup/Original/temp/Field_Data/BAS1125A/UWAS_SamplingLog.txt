@@ -1,0 +1,52 @@
+Starting Valco Position is: 10
+Pump off now
+Num of GPS satellites: 10.0
+Pump Test Sucessful!
+Initial Lat, Lon, Altitude (m), Sat : 4005.1551,10513.9712,1589.7
+Way Point (WP) :1
+Starting Valco Position is: 10
+Pump off now
+Num of GPS satellites: 10.0
+Pump Test Sucessful!
+Initial Lat, Lon, Altitude (m), Sat : 4005.1574,10513.9711,1588.6
+Way Point (WP) :1
+Pump On- sampling at WP
+WP (&Sat #) start GPS data: 203808.000,4005.1559,10513.9704,1687.4,11
+Sample start Batt,Flow,10V:3.53504538102,0.870150968963,3.32616400647
+Sample start RH,T,Psys,Pamb:17.2455262917,9.23750260933,22.5446287423,11.8616692099
+Current Valco Position is: 11
+WP end GPS data: 203952.000,4005.1570,10513.9697,1690.1
+Sample end Batt,Flow,10V:3.45666798914,1.06470690634,3.32597650075
+Sample end RH,T,Psys,Pamb:19.1705850398,7.23944163335,21.6492889187,11.8874512467
+Current Valco Position is now: 12
+Way Point (WP) :2
+Pump On- sampling at WP
+WP (&Sat #) start GPS data: 204035.000,4005.1587,10513.9692,1684.8,11
+Sample start Batt,Flow,10V:3.44991778314,1.07250714438,3.32616400647
+Sample start RH,T,Psys,Pamb:19.720601825,6.8854308298,22.3930616169,11.9099519333
+Current Valco Position is: 13
+WP end GPS data: 204218.000,4005.1580,10513.9698,1667.5
+Sample end Batt,Flow,10V:3.33666432691,1.01340534074,3.32597650075
+Sample end RH,T,Psys,Pamb:20.3106198309,6.72942606891,21.8539826655,11.9371402631
+Current Valco Position is now: 14
+Way Point (WP) :3
+Pump On- sampling at WP
+WP (&Sat #) start GPS data: 204230.000,4005.1595,10513.9688,1649.0,11
+Sample start Batt,Flow,10V:3.33516428114,0.994954777673,3.32635151219
+Sample start RH,T,Psys,Pamb:20.6306295969,6.72942606891,22.2352443007,11.9774539933
+Current Valco Position is: 15
+WP end GPS data: 204413.000,4005.1588,10513.9698,1635.2
+Sample end Batt,Flow,10V:3.08184405042,0.860250666829,3.32653901791
+Sample end RH,T,Psys,Pamb:20.5106259346,6.89143101291,22.1039902951,11.9980796228
+Current Valco Position is now: CC
+Way Point (WP) :4
+Pump On- sampling at WP
+WP (&Sat #) start GPS data: 204428.000,4005.1590,10513.9699,1624.8,11
+Sample start Batt,Flow,10V:3.05840583514,0.0673264687033,3.32653901791
+Sample start RH,T,Psys,Pamb:20.2406176946,6.90343137913,22.4196249275,12.0351120029
+Current Valco Position is: CC
+WP end GPS data: 204612.000,4005.1590,10513.9708,1600.5
+Sample end Batt,Flow,10V:1.77849177526,0.549591186254,3.32785155797
+Sample end RH,T,Psys,Pamb:21.9406695761,7.91146214179,21.4617831965,12.050581225
+Current Valco Position is now: CC
+All Way Points have been completed

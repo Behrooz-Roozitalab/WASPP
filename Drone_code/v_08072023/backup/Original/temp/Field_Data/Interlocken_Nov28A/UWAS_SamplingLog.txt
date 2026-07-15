@@ -1,0 +1,8 @@
+Starting Valco Position is: 12
+Pump off now
+Num of GPS satellites: 8.0
+pSys-pAmb < 2; pump test and data collection aborted
+Starting Valco Position is: 12
+Pump off now
+Num of GPS satellites: 9.0
+pSys-pAmb < 2; pump test and data collection aborted

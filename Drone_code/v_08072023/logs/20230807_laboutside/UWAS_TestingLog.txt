@@ -1,0 +1,271 @@
+------------------TESTING SENSORS------------------
+
+>>>>>> Testing GPS:
+Date: 001341.799, Lat: , Lon: , Alt: , sat: 00
+
+
+>>>>>> Testing wind sensor:
+Date: 001341.799, wind: 32
+
+
+>>>>>> Testing Valco Valve:
+Current Position: 16
+
+
+>>>>>> Testing Battery & Flow:
+Battery voltage: 4.11500057985168
+Flow: -0.004375719473860862
+Pwr10V: 3.3370393383587147
+
+
+>>>>>> Testing Temp/Humidity/Pressure:
+RH: 48.4814795373394
+Temp: 23.283931272316664
+pSys: 2.177936185796686
+pAmb: 11.938055055391095
+
+
+>>>>>> Testing sensors:
+Test Results: [1, 0, 0, 0, 0, 1, 1]
+
+
+>>>>>> Testing pump:
+Pump is On, Pump Status: 1
+------ Wait for 5 sec ------
+Pump is Off, Pump Status: 0
+Pump test Success!!!
+------------------END TESTING SENSORS------------------
+
+
+
+------------------START CONFIGURATION------------------
+
+>>>>>> Checking the number of waypoints:
+Number of waypoints: 8
+
+
+>>>>>> Configuring GPS:
+Configuring GPS FAILS...
+Num of satellites: 0.0
+......SHUTTING DOWN......
+
+
+>>>>>> Configuring Battery:
+Configuring Battery SUCCESS!!!
+Battery Volt: value(4.115563097018342) > threshold(3.65)
+
+
+>>>>>> Configuring Flow & Pressure:
+Configuring Flow & Pressure FAILS...
+Diff between pSys & pAmb: value(9.758556321909237) > threshold(2)
+Flow: value(-0.0045257240516372475) > threshold(0.3)
+......SHUTTING DOWN......
+
+
+------------------END CONFIGURATION------------------
+
+
+
+------------------TESTING SENSORS------------------
+
+>>>>>> Testing GPS:
+Date: 000045.799, Lat: , Lon: , Alt: , sat: 00
+
+
+>>>>>> Testing wind sensor:
+Date: 000045.799, wind: 50
+
+
+>>>>>> Testing Valco Valve:
+Current Position: 16
+
+
+>>>>>> Testing Battery & Flow:
+Battery voltage: 4.11500057985168
+Flow: -0.004375719473860862
+Pwr10V: 3.3370393383587147
+
+
+>>>>>> Testing Temp/Humidity/Pressure:
+RH: 48.24647236548968
+Temp: 23.385934385204628
+pSys: 2.18309259315775
+pAmb: 11.948992889187293
+
+
+>>>>>> Testing sensors:
+Test Results: [1, 0, 0, 0, 0, 1, 1]
+
+
+>>>>>> Testing pump:
+Pump is On, Pump Status: 1
+------ Wait for 5 sec ------
+Pump is Off, Pump Status: 0
+Pump test Success!!!
+------------------END TESTING SENSORS------------------
+
+
+
+------------------START CONFIGURATION------------------
+
+>>>>>> Checking the number of waypoints:
+Number of waypoints: 8
+
+
+>>>>>> Configuring GPS:
+Configuring GPS FAILS...
+Num of satellites: 0.0
+......SHUTTING DOWN......
+
+
+>>>>>> Configuring Battery:
+Configuring Battery SUCCESS!!!
+Battery Volt: value(4.115188085573901) > threshold(3.65)
+
+
+>>>>>> Configuring Flow & Pressure:
+Configuring Flow & Pressure FAILS...
+Diff between pSys & pAmb: value(9.767931608020266) > threshold(2)
+Flow: value(-0.004375719473860862) > threshold(0.3)
+......SHUTTING DOWN......
+
+
+------------------END CONFIGURATION------------------
+
+
+
+------------------TESTING SENSORS------------------
+
+>>>>>> Testing GPS:
+Date: 000051.799, Lat: , Lon: , Alt: , sat: 00
+
+
+>>>>>> Testing wind sensor:
+Date: 000051.799, wind: 50
+
+
+>>>>>> Testing Valco Valve:
+Current Position: 16
+
+
+>>>>>> Testing Battery & Flow:
+Battery voltage: 3.9698711508529922
+Flow: -0.004075710318308001
+Pwr10V: 3.3366643269142737
+
+
+>>>>>> Testing Temp/Humidity/Pressure:
+RH: 48.40147709585864
+Temp: 23.367933835871455
+pSys: 2.198561815240944
+pAmb: 11.955243079927977
+
+
+>>>>>> Testing sensors:
+Test Results: [1, 0, 0, 0, 0, 1, 1]
+
+
+>>>>>> Testing pump:
+Pump is On, Pump Status: 1
+------ Wait for 5 sec ------
+Pump is Off, Pump Status: 0
+Pump test Success!!!
+------------------END TESTING SENSORS------------------
+
+
+
+------------------START CONFIGURATION------------------
+
+>>>>>> Checking the number of waypoints:
+Number of waypoints: 8
+
+
+>>>>>> Configuring GPS:
+Configuring GPS FAILS...
+Num of satellites: 0.0
+......SHUTTING DOWN......
+
+
+>>>>>> Configuring Battery:
+Configuring Battery SUCCESS!!!
+Battery Volt: value(3.9685586107974484) > threshold(3.65)
+
+
+>>>>>> Configuring Flow & Pressure:
+Configuring Flow & Pressure FAILS...
+Diff between pSys & pAmb: value(9.76168141727958) > threshold(2)
+Flow: value(-0.004075710318308001) > threshold(0.3)
+......SHUTTING DOWN......
+
+
+------------------END CONFIGURATION------------------
+
+
+
+------------------TESTING SENSORS------------------
+
+>>>>>> Testing GPS:
+Date: 194058.000, Lat: 4002.2818, Lon: 10514.5504, Alt: 1625.0, sat: 08
+
+
+>>>>>> Testing wind sensor:
+Date: 194058.000, wind: 0
+
+
+>>>>>> Testing Valco Valve:
+Current Position: 16
+
+
+>>>>>> Testing Battery & Flow:
+Battery voltage: 3.9400577410199285
+Flow: 0.001174449903866659
+Pwr10V: 3.336851832636494
+
+
+>>>>>> Testing Temp/Humidity/Pressure:
+RH: 29.765908383434553
+Temp: 28.58809314249092
+pSys: 2.2210625019074075
+pAmb: 11.91305429242836
+
+
+>>>>>> Testing sensors:
+Test Results: [1, 0, 0, 0, 0, 1, 1]
+
+
+>>>>>> Testing pump:
+Pump is On, Pump Status: 1
+------ Wait for 5 sec ------
+Pump is Off, Pump Status: 0
+Pump test Success!!!
+------------------END TESTING SENSORS------------------
+
+
+
+------------------START CONFIGURATION------------------
+
+>>>>>> Checking the number of waypoints:
+Number of waypoints: 8
+
+
+>>>>>> Configuring GPS:
+Configuring GPS SUCCESS!!!
+Num of satellites: 8.0
+
+
+>>>>>> Configuring Battery:
+Configuring Battery SUCCESS!!!
+Battery Volt: value(3.938745200964385) > threshold(3.65)
+
+
+>>>>>> Configuring Flow & Pressure:
+Configuring Flow & Pressure FAILS...
+Diff between pSys & pAmb: value(9.696523178807947) > threshold(2)
+Flow: value(0.0007244361705375014) > threshold(0.3)
+......SHUTTING DOWN......
+
+
+------------------END CONFIGURATION------------------
+
+
+
