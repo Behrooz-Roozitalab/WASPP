@@ -1,3 +1,5 @@
+WASPP Handbook (WIP): https://docs.google.com/document/d/1IceIdq9c53aDnLVoJMZE6vS1mh8t16MDo0X86kv3OAQ/edit?usp=sharing
+
 WASPP Wireless Codebase
 =======================
 
